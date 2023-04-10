@@ -1,4 +1,4 @@
-# DND AI Art Bot
+# AI Art Bot
 A Discord bot that is compatible with Stable Diffusion's Dreamstudio. 
 
 If you want to deploy the bot on your home computer then make sure you put your api keys in the .env file the dreamstudio one to the "dreamstudio" and the bot token to "DISCORD_TOKEN" If you don't know where to find these values:
